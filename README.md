@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://YOUR-BANNER-URL" alt="Banner" />
+</p>
 
-<!--
-**Mr-HAP/Mr-HAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Hey 👋, soy Hernán</h2>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 💻 Software Engineer & Founder de Litiobyte  
+- 🌍 Viviendo en Berlín, desarrollando apps, SaaS y plataformas a medida  
+- ⚙️ Fullstack: Laravel, React Native, Django, WordPress, AWS, Docker  
+- 🚴 Preparando un viaje en bicicleta por Alemania de punta a punta 😎  
+- 🤝 Abierto a colaborar en proyectos serios, innovadores y con impacto real  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🛠️ Tech Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU-USUARIO&theme=dark&hide_border=true" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=dark&hide_border=true&show_icons=true" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=onedark&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20Views&color=blue&style=flat" />
+</p>
