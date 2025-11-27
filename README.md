@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://YOUR-BANNER-URL" alt="Banner" />
+  <img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png" alt="Banner" />
 </p>
 
 <div align="center">
