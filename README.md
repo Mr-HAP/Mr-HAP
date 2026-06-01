@@ -34,15 +34,15 @@
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU-USUARIO&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-HAP&theme=dark&hide_border=true" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-HAP&theme=dark&hide_border=true&show_icons=true" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-HAP&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 ---
