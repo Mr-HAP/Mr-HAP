@@ -38,10 +38,12 @@
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-HAP&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-HAP&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-HAP&theme=dark&hide_border=true&layout=compact&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-HAP&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
