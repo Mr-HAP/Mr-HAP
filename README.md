@@ -33,11 +33,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-HAP&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-bay-63.vercel.app/api?user=Mr-HAP&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-HAP&show_icons=true&theme=dark&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-bay-63.vercel.app/api?username=Mr-HAP&show_icons=true&theme=dark&hide_border=true&v=1" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-HAP&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-bay-63.vercel.app/api/top-langs/?username=Mr-HAP&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 
