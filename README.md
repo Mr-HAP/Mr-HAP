@@ -33,23 +33,23 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-HAP&theme=dark&hide_border=true" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-HAP&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-HAP&theme=dark&hide_border=true" alt="GitHub Streak" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-HAP&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-HAP&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-HAP&theme=dark&hide_border=true&layout=compact&cache_seconds=21600" alt="Top Languages" />
 </p>
+
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=onedark&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-HAP&theme=onedark&no-frame=true&margin-w=4" />
 </p>
 
 ---
@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mr-HAP&label=Profile%20Views&color=blue&style=flat" />
 </p>
